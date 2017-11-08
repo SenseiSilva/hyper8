@@ -1,0 +1,289 @@
+/* https://paddle8.com/work/ellsworth-kelly/78782-color-squares-4/ */
+
+
+body {
+	background-image: url(https://static.carthrottle.com/workspace/uploads/posts/2016/02/e384985daf3ef037418eba3dff6eb3b0.jpg);
+	width: 100%;
+	background-size: 210vh 105vh;
+	margin: 0;
+}
+
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	height: inherit;
+}
+
+#wrapper {
+      margin: 0 auto;
+      width: 100%;
+    }
+    
+     nav {
+      margin-top: 0px;
+      display: table;
+      width: 100%;
+      padding: 30px;
+      border-collapse: collapse;
+      border: none;
+    }
+    
+    nav ul {
+      display: table-row;
+    }
+    
+    nav li {
+      display: table-cell;
+      margin: 0;
+      text-align: center;
+    }
+    
+    nav li a {
+      display: block;
+      padding:  20px;
+      text-decoration: none;
+      font-weight: bold;
+      font-family: Verdana, Sans-Serif;
+      font-size: 1em;
+      color: white;
+      border-bottom: 0.1em grey;
+      
+    }
+
+    nav li a:hover {
+      background: red;
+      display: block;
+      opacity: 0.7;
+    }
+
+.active {
+     background-color: grey;
+     display: block;
+     color: black;
+}
+
+.active2 {
+     display: block;
+     color: black;
+}
+
+.active3 {
+     background-color: grey;
+     display: block;
+     color: white;
+}
+
+.active4 {
+     background-color: grey;
+     display: block;
+     color: white;
+}
+.bar {
+  background-color: red;
+  height: 1px;
+  margin-top: 10px;
+  opacity: 0.2;
+}
+
+
+.text {
+	font-family: Roboto, Sans-Serif;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	margin-top: 10px;
+}
+
+.text1 {
+	font-family: roboto, Sans-Serif;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	height: 80vh;
+	width: 200vh;
+	opacity: 0.7;
+}
+
+.text2 {
+	font-family: roboto, Sans-Serif;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+	height: 80vh;
+	width: 200vh;
+	opacity: 0.7;
+}
+
+.lamb {
+	background-image: url(https://www.lamborghini.com/en-en/sites/en-en/files/DAM/lamborghini/model/huracan/huracan-performante/header-huracan-performante.jpg);
+	width: 100%;
+	background-size: 200vh 115vh;
+	margin: 0;
+}
+
+.white {
+	background-color: white;
+	height: 75vh;
+	width: 200vh;
+    box-shadow: -10px -20px 20px black;
+}
+
+.black {
+	background-color: black;
+	height: 75vh;
+	width: 200vh;
+    box-shadow: -10px -20px 20px black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.black2 {
+	background-color: black;
+	height: 35vh;
+	width: 100%;
+} 
+
+.little {
+	background-color: black;
+	height: 80%;
+	width: 33%;
+}
+
+.margin {
+	margin: auto;
+	border: 2px solid orange;
+	background-color: transparent;
+	height: 100%;
+	width: 80%;
+}
+
+.margin2 {
+	margin: auto;
+	border: 2px solid orange;
+	background-color: black;
+	height: 90%;
+	width: 80%;
+}
+
+.m_blue {
+	margin: auto;
+	border: 2px solid #0E5A89;
+	background-color: transparent;
+}
+
+.m_white {
+	margin: auto;
+	border: 2px solid white;
+	background-color: transparent;
+}
+
+.m_red {
+	margin: auto;
+	border: 2px solid #960B0B;
+	background-color: transparent;
+}
+
+.m_green {
+	margin: auto;
+	border: 2px solid green;
+	background-color: transparent;
+}
+
+.m_grey {
+	margin: auto;
+	border: 2px solid #6E6E6E;
+	background-color: transparent;
+}
+
+.m_ice {
+	margin: auto;
+	border: 2px solid #AFC6CA;
+	background-color: transparent;
+}
+
+.m_purp {
+	margin: auto;
+	border: 2px solid #3A274F;
+	background-color: transparent;
+}
+
+.m_yellow {
+	margin: auto;
+	border: 2px solid #F7E429;
+	background-color: transparent;
+}
+
+.rari {
+	background-image: url(https://storage.googleapis.com/gtspirit/uploads/2015/07/VAD_Curseive_458_GT3.jpg);
+	background-size: 200vh 120vh;
+	margin: 0;
+}
+
+.laren {
+	background-image: url(http://www.hdcarwallpapers.com/download/2018_mclaren_720s_memphis_red_4k-1366x768.jpg);
+	background-size: 200vh 107vh;
+	margin: 0;
+}
+
+.rolls {
+	background-image: url(http://st.motortrend.com/uploads/sites/5/2017/01/2017-Rolls-Royce-Black-Badge-front-headlight-02.jpg);
+	background-size: 200vh 135vh;
+	margin: 0;
+}
+
+.porsche {
+	background-image: url(http://www.autoguide.com/blog/wp-content/gallery/2018-porsche-911-gt2-rs-official-gallery/2018-porsche-911-gt2-rs-04.jpg);
+	background-size: 200vh 120vh;
+	margin: 0;
+}
+
+.mercedes {
+	background-image: url(https://drivetribe.imgix.net/R5oiwevpSDSCe_z6UGvmEQ?w=1800&h=1013&fm=pjpg&auto=compress&fit=crop&crop=faces,edges);
+	background-size: 200vh 110vh;
+	margin: 0;
+}
+
+.bug {
+	background-image: url(https://assets.bugatti.com/fileadmin/user_upload/Web/Pages/Chiron_2017/images/bugatti-chiron-black-blue-02.jpg);
+	background-size: 200vh 115vh;
+	margin: 0;
+}
+
+.egg {
+	background-image: url(http://i1.wp.com/www.koenigsegg.com/wp-content/uploads/2015/01/AgeraAirport7.png?resize=2756%2C1837);
+	background-size: 200vh 130vh;
+	margin: 0;
+}
+
+.blank_space {
+	height: 150px;
+}
+
+.blank {
+	height: 40px;
+}
+
+h1 {
+	font-family: roboto, Sans-Serif;
+	color: white;
+	text-align: center;
+}
+
+p {
+	font-family: roboto, Sans-Serif;
+	color: white;
+	text-align: center;
+}
+
+.red {
+	color: #DF0101;
+}
+
+img {
+	content: url(images/engine.png);
+	height: 20vh;
+	width: 10vw;
+	margin-left: 105px;
+}
