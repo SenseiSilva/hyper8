@@ -1,0 +1,39 @@
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="images/favicon.ico" rel="icon" type="image/x-icon" />
+		<title>HYPER 8</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+
+	<body>
+	
+	<div id="wrapper">
+  
+  	<nav>
+  	  <ul>
+  	    <li><a href="#" class="active">HYPER 8</a></li>
+   	    <li><a href="lamborghini.html">Lamborghini</a></li>
+        <li><a href="mclaren.html">McLaren</a></li>
+        <li><a href="mercedes.html">Mercedes</a></li>
+        <li><a href="ferrari.html">Ferrari</a></li>
+    	<li><a href="porsche.html">Porsche</a></li>
+        <li><a href="rolls.html">Rolls Royce</a></li>
+        <li><a href="bugatti.html">Bugatti</a></li>
+        <li><a href="koenigsegg.html">Koenigsegg</a></li>
+       </ul>
+  	  </nav>
+  
+	  </div>
+	  
+	<div class="blank_space"></div>
+	  <div class="text">
+	  	<h1> H Y P E R 8</h1>
+	  </div>
+
+		<script src="script.js"></script>
+	</body>
+	
+</html>
