@@ -287,3 +287,10 @@ img {
 	width: 10vw;
 	margin-left: 160px;
 }
+
+.msrp {
+	font-family: roboto, Sans-Serif;
+	color: white;
+	text-align: center;
+	font-size: 60px;
+}
