@@ -282,7 +282,7 @@ p {
 }
 
 img {
-	content: url(images/engine.png);
+	content: url(engine.png);
 	height: 20vh;
 	width: 10vw;
 	margin-left: 105px;
