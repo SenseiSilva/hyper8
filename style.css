@@ -121,6 +121,7 @@ body {
 	width: 100%;
 	background-size: 200vh 115vh;
 	margin: 0;
+	background-attachment: fixed;
 }
 
 .white {
@@ -219,42 +220,49 @@ body {
 	background-image: url(http://mms.businesswire.com/media/20140325006265/en/408774/5/EXR_ACS_Ferrari.jpg);
 	background-size: 210vh 135vh;
 	margin: 0;
+	background-attachment: fixed;
 }
 
 .laren {
 	background-image: url(http://www.hdcarwallpapers.com/download/2018_mclaren_720s_memphis_red_4k-1366x768.jpg);
 	background-size: 200vh 107vh;
 	margin: 0;
+	background-attachment: fixed;
 }
 
 .rolls {
 	background-image: url(http://st.motortrend.com/uploads/sites/5/2017/01/2017-Rolls-Royce-Black-Badge-front-headlight-02.jpg);
 	background-size: 200vh 135vh;
 	margin: 0;
+	background-attachment: fixed;
 }
 
 .porsche {
 	background-image: url(http://www.autoguide.com/blog/wp-content/gallery/2018-porsche-911-gt2-rs-official-gallery/2018-porsche-911-gt2-rs-04.jpg);
 	background-size: 200vh 120vh;
 	margin: 0;
+	background-attachment: fixed;
 }
 
 .mercedes {
 	background-image: url(https://drivetribe.imgix.net/R5oiwevpSDSCe_z6UGvmEQ?w=1800&h=1013&fm=pjpg&auto=compress&fit=crop&crop=faces,edges);
 	background-size: 200vh 110vh;
 	margin: 0;
+	background-attachment: fixed;
 }
 
 .bug {
 	background-image: url(https://assets.bugatti.com/fileadmin/user_upload/Web/Pages/Chiron_2017/images/bugatti-chiron-black-blue-02.jpg);
 	background-size: 200vh 115vh;
 	margin: 0;
+	background-attachment: fixed;
 }
 
 .egg {
 	background-image: url(http://images.car.bauercdn.com/pagefiles/76790/koenig_agerars_01.jpg);
 	background-size: 200vh 130vh;
 	margin: 0;
+	background-attachment: fixed;
 }
 
 .blank_space {
