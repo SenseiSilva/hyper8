@@ -585,7 +585,7 @@ p {
 }
 
 img {
-	content: url(images/engine.png);
+	content: url(engine.png);
 	height: 22vh;
 	width: 30vw;
 	margin-left: 105px;
