@@ -440,6 +440,27 @@ body {
 	width: 100%;
 } 
 
+.little {
+	background-color: black;
+	height: 50%;
+	width: 100%;
+}
+
+.margin {
+	margin: auto;
+	border: 2px solid orange;
+	background-color: transparent;
+	height: 85%;
+	width: 80%;
+}
+
+.margin2 {
+	margin: auto;
+	border: 2px solid orange;
+	background-color: black;
+	height: 30%;
+	width: 80%;
+}
 .m_blue {
 	margin: auto;
 	border: 2px solid #0E5A89;
@@ -486,28 +507,6 @@ body {
 	margin: auto;
 	border: 2px solid #F7E429;
 	background-color: transparent;
-}
-
-.little {
-	background-color: black;
-	height: 50%;
-	width: 100%;
-}
-
-.margin {
-	margin: auto;
-	border: 2px solid orange;
-	background-color: transparent;
-	height: 85%;
-	width: 80%;
-}
-
-.margin2 {
-	margin: auto;
-	border: 2px solid orange;
-	background-color: black;
-	height: 30%;
-	width: 80%;
 }
 
 .rari {
