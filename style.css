@@ -290,7 +290,7 @@ p {
 }
 
 img {
-	content: url(images/engine.png);
+	content: url(engine.png);
 	height: 20vh;
 	width: 10vw;
 	margin-left: 105px;
@@ -586,7 +586,7 @@ p {
 }
 
 img {
-	content: url(images/engine.png);
+	content: url(engine.png);
 	height: 1vh;
 	width: 20vw;
 	margin-left: 150px;
