@@ -1,8 +1,8 @@
 /* https://paddle8.com/work/ellsworth-kelly/78782-color-squares-4/ */
 
-
+@media screen and (min-width: 900px) {
 body {
-	background-image: url(hyper.png);
+	background-image: url(https://static.carthrottle.com/workspace/uploads/posts/2016/02/e384985daf3ef037418eba3dff6eb3b0.jpg);
 	width: 100%;
 	background-size: 210vh 105vh;
 	margin: 0;
@@ -133,7 +133,7 @@ body {
 
 .black {
 	background-color: black;
-	height: 75vh;
+	height: 105vh;
 	width: 200vh;
     box-shadow: -10px -20px 20px black;
     display: flex;
@@ -148,7 +148,7 @@ body {
 
 .little {
 	background-color: black;
-	height: 80%;
+	height: 70%;
 	width: 33%;
 }
 
@@ -156,7 +156,7 @@ body {
 	margin: auto;
 	border: 2px solid orange;
 	background-color: transparent;
-	height: 100%;
+	height: 80%;
 	width: 80%;
 }
 
@@ -164,9 +164,8 @@ body {
 	margin: auto;
 	border: 2px solid orange;
 	background-color: black;
-	height: 40%;
+	height: 30%;
 	width: 80%;
-	margin-top: 400px;
 }
 
 .m_blue {
@@ -267,7 +266,7 @@ body {
 }
 
 .blank_space {
-	height: 350px;
+	height: 150px;
 }
 
 .blank {
@@ -291,10 +290,10 @@ p {
 }
 
 img {
-	content: url(engine.png);
+	content: url(images/engine.png);
 	height: 20vh;
 	width: 10vw;
-	margin-left: 160px;
+	margin-left: 105px;
 }
 
 .msrp {
