@@ -308,7 +308,7 @@ img {
 	
 body {
 	background-image: url(https://static.carthrottle.com/workspace/uploads/posts/2016/02/e384985daf3ef037418eba3dff6eb3b0.jpg);
-	width: 100%;
+	width: 30%;
 	background-size: 210vh 105vh;
 	margin: 0;
 }
@@ -428,22 +428,17 @@ body {
 
 .black {
 	background-color: black;
-	height: 155vh;
+	height: 145vh;
 	width: 100%;
     box-shadow: -10px -20px 20px black;
     display: flex;
     flex-wrap: wrap;
 }
 
-.black2 {
-	background-color: black;
-	height: 20%;
-	width: 100%;
-} 
 
 .little {
 	background-color: black;
-	height: 50%;
+	height: 25%;
 	width: 100%;
 }
 
@@ -451,7 +446,7 @@ body {
 	margin: auto;
 	border: 2px solid orange;
 	background-color: transparent;
-	height: 85%;
+	height: 90%;
 	width: 80%;
 }
 
@@ -459,9 +454,10 @@ body {
 	margin: auto;
 	border: 2px solid orange;
 	background-color: black;
-	height: 30%;
-	width: 80%;
+	height: 13%;
+	width: 90%;
 }
+
 .m_blue {
 	margin: auto;
 	border: 2px solid #0E5A89;
@@ -472,6 +468,7 @@ body {
 	margin: auto;
 	border: 2px solid white;
 	background-color: transparent;
+	height: 100%;
 }
 
 .m_red {
@@ -560,11 +557,15 @@ body {
 }
 
 .blank_space {
-	height: 150px;
+	height: 350px;
 }
 
 .blank {
-	height: 40px;
+	height: 50px;
+}
+
+.blank2 {
+	height: 20px;
 }
 
 h1 {
@@ -585,16 +586,17 @@ p {
 }
 
 img {
-	content: url(engine.png);
-	height: 22vh;
-	width: 30vw;
-	margin-left: 125px;
+	content: url(images/engine.png);
+	height: 1vh;
+	width: 20vw;
+	margin-left: 150px;
+	visibility: hidden;
 }
 
 .msrp {
 	font-family: roboto, Sans-Serif;
 	color: white;
 	text-align: center;
-	font-size: 60px;
+	font-size: 30px;
 }
 }
