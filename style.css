@@ -303,6 +303,10 @@ img {
 	width: 10vw;
 	margin-left: 160px;
 }
+	
+#gera {
+	content: url(egg-engine.png)
+}
 
 .msrp {
 	font-family: roboto, Sans-Serif;
