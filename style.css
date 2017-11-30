@@ -305,9 +305,13 @@ img {
 }
 	
 .gera {
-	content: url(egg-engine.jpg)
+	content: url(egg-engine.jpg);
 }
 
+.chiron {
+	content: url(chiron_motor_01.png);
+}
+		
 .msrp {
 	font-family: roboto, Sans-Serif;
 	color: white;
