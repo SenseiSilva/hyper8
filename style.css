@@ -308,10 +308,31 @@ img {
 	content: url(egg-engine.png);
 	height: 20vh;
 	width: 25vw;
+	margin-left: 10px;
 }
 
 .chiron {
 	content: url(chiron_motor_01.png);
+}
+	
+.mer {
+	content: url(mercedes-engine.png);
+}
+
+.mclar {
+	content: url(mclaren-engine.png);
+}
+	
+.ferar {
+	conent: url(farrari-engine.png);
+}
+	
+.pors {
+	content: url(porsche-engine.png);
+}
+	
+.bat {
+	content: url(tesla-battery.png);
 }
 		
 .msrp {
