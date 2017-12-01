@@ -306,6 +306,8 @@ img {
 	
 .gera {
 	content: url(egg-engine.png);
+	height: 20vh;
+	width: 35vw;
 	margin-left: 20px;
 }
 
