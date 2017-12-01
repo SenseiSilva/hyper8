@@ -317,6 +317,8 @@ img {
 	
 .mer {
 	content: url(mercedes-engine.png);
+	height: 20vh;
+	width: 25vw;
 }
 
 .mclar {
