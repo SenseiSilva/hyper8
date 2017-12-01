@@ -320,7 +320,9 @@ img {
 	
 .mer {
 	content: url(mercedes-engine.png);
-	margin-left: 20px;
+	height: 35vh;
+	with: 37vw;
+	margin-left: -5vw;
 }
 
 .mclar {
