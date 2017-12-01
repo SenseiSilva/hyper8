@@ -306,9 +306,9 @@ img {
 	
 .gera {
 	content: url(egg-engine.png);
-	height: 20vh;
+	height: 25vh;
 	width: 35vw;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 
 .chiron {
