@@ -299,9 +299,9 @@ p {
 
 img {
 	content: url(engine.png);
-	height: 20vh;
-	width: 10vw;
-	margin-left: 160px;
+	height: 35vh;
+	width: 27vw;
+	margin-left: 0;
 }
 	
 .gera {
