@@ -337,8 +337,8 @@ img {
 .bat {
 	content: url(tesla-bat.png);
 	height: 30vh;
-	width: 40vw;
-	margin-left: 0;
+	width: 35vw;
+	margin-left: -4.25vw;
 }
 
 .ratio {
