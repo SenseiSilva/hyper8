@@ -326,7 +326,9 @@ img {
 	
 .ferar {
 	content: url(rari-engine.png);
-	margin-left: 20px;
+	height: 25vh;
+	width: 27vw;
+	margin-left: 15px;
 }
 	
 .pors {
