@@ -313,6 +313,9 @@ img {
 
 .chiron {
 	content: url(chiron_motor_01.png);
+	height: 37vh;
+	width: 27vw;
+	margin: 0;
 }
 	
 .mer {
