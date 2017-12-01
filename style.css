@@ -321,6 +321,8 @@ img {
 
 .mclar {
 	content: url(laren-engine.png);
+	height: 20vh;
+	width: 25vw;
 }
 	
 .ferar {
