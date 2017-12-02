@@ -321,7 +321,7 @@ img {
 .mer {
 	content: url(mercedes-engine.png);
 	height: 35vh;
-	with: 37vw;
+	width: 37vw;
 	margin-left: -5vw;
 }
 
