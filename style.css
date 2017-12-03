@@ -423,6 +423,25 @@ body {
   margin-top: 10px;
   opacity: 0.2;
 }
+	
+.active {
+     background-color: grey;
+     color: black;
+}
+
+.active2 {
+     color: black;
+}
+
+.active3 {
+     background-color: grey;
+     color: white;
+}
+
+.active4 {
+     background-color: grey;
+     color: white;
+}
 
 .topnav a {display: none;}
   .topnav a.icon {
