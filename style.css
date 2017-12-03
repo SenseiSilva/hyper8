@@ -59,31 +59,26 @@ body {
 	      
 .active {
      background-color: grey;
-     display: block;
      color: black;
 }
 
 .active2 {
-     display: block;
      color: black;
 }
 
 .active3 {
      background-color: grey;
-     display: block;
      color: white;
 }
 
 .active4 {
      background-color: grey;
-     display: block;
      color: white;
 }
 	
 .bar {
   background-color: red;
   height: 1px;
-  margin-top: 10px;
   opacity: 0.2;
 }
 
