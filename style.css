@@ -519,7 +519,7 @@ body {
 	margin: auto;
 	border: 2px solid orange;
 	background-color: transparent;
-	height: 90%;
+	height: 100%;
 	width: 80%;
 }
 
@@ -666,7 +666,7 @@ p {
 
 img {
 	content: url(engine.png);
-	height: 1vh;
+	height: .25vh;
 	width: 20vw;
 	margin-left: 150px;
 	visibility: hidden;
