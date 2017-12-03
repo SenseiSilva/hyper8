@@ -424,7 +424,7 @@ body {
   opacity: 0.2;
 }
 
-.topnav a:not(:first-child) {display: none;}
+.topnav a {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
