@@ -374,7 +374,7 @@ body {
 	height: inherit;
 }
 
-#wrapper {
+#myTopnav {
       margin: 0 auto;
       width: 100%;
     }
@@ -393,9 +393,10 @@ body {
     }
     
     nav li {
-      display: table-cell;
+      display: block;
       margin: 0;
       text-align: center;
+      width: 100vw;
     }
     
     nav li a {
@@ -416,34 +417,31 @@ body {
       opacity: 0.7;
     }
 
-.active {
-     background-color: grey;
-     display: block;
-     color: black;
-}
-
-.active2 {
-     display: block;
-     color: black;
-}
-
-.active3 {
-     background-color: grey;
-     display: block;
-     color: white;
-}
-
-.active4 {
-     background-color: grey;
-     display: block;
-     color: white;
-}
 .bar {
   background-color: red;
   height: 1px;
   margin-top: 10px;
   opacity: 0.2;
 }
+
+.topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+
+
+.topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
 
 
 .text {
