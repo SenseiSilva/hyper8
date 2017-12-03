@@ -82,6 +82,9 @@ body {
   opacity: 0.2;
 }
 
+.topnav .icon {
+    display: none;
+}
 
 .text {
 	font-family: Roboto, Sans-Serif;
