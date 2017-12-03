@@ -16,22 +16,22 @@ body {
 	height: inherit;
 }
 
-#wrapper {
+#myTopnav {
       margin: 0 auto;
       width: 100%;
-    }
-    
-     nav {
+}
+    nav {
       margin-top: 0px;
-      display: table;
+      display: flex;
+      flex-wrap:wrap;
       width: 100%;
-      padding: 30px;
-      border-collapse: collapse;
+      padding: 10px;
+    
       border: none;
     }
     
     nav ul {
-      display: table-row;
+      display: flex;
     }
     
     nav li {
@@ -41,8 +41,7 @@ body {
     }
     
     nav li a {
-      display: block;
-      padding:  20px;
+      padding:  25px;
       text-decoration: none;
       font-weight: bold;
       font-family: Verdana, Sans-Serif;
@@ -54,11 +53,10 @@ body {
 
     nav li a:hover {
       background: red;
-      display: block;
-      opacity: 0.7;
       transition: .25s ease-in-out;
+      opacity: 0.7;
     }
-
+	      
 .active {
      background-color: grey;
      display: block;
@@ -81,6 +79,7 @@ body {
      display: block;
      color: white;
 }
+	
 .bar {
   background-color: red;
   height: 1px;
