@@ -6,6 +6,7 @@ body {
 	width: 100%;
 	background-size: 210vh 105vh;
 	margin: 0;
+	background-repeat: no-repeat;
 }
 
 #myTopnav {
@@ -357,6 +358,7 @@ body {
 	background-image: url(https://static.carthrottle.com/workspace/uploads/posts/2016/02/e384985daf3ef037418eba3dff6eb3b0.jpg);
 	background-size: 210vh 105vh;
 	margin: 0;
+	background-repeat: no-repeat;
 }
 
 #myTopnav {
