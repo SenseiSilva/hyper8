@@ -133,12 +133,6 @@ body {
     flex-wrap: wrap;
 }
 
-.black2 {
-	background-color: black;
-	height: 35vh;
-	width: 100%;
-} 
-
 .little {
 	background-color: black;
 	height: 70%;
@@ -369,7 +363,6 @@ img:active {
 	
 body {
 	background-image: url(https://static.carthrottle.com/workspace/uploads/posts/2016/02/e384985daf3ef037418eba3dff6eb3b0.jpg);
-	width: 30%;
 	background-size: 210vh 105vh;
 	margin: 0;
 }
