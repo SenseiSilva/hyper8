@@ -1,6 +1,6 @@
 /* https://paddle8.com/work/ellsworth-kelly/78782-color-squares-4/ */
 
-@media screen and (min-width: 1350px) {
+@media screen and (min-width: 1300px) {
 body {
 	background-image: url(hyper.png);
 	width: 100%;
@@ -351,7 +351,7 @@ img:active {
 }
 
 
-@media screen and (max-width: 1349px) {
+@media screen and (max-width: 1299px) {
 body {
 	background-image: url(hyper.png);
 	width: 100%;
