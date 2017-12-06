@@ -1,6 +1,6 @@
 /* https://paddle8.com/work/ellsworth-kelly/78782-color-squares-4/ */
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1250px) {
 body {
 	background-image: url(hyper.png);
 	width: 100%;
@@ -13,6 +13,357 @@ body {
       margin: 0 auto;
       width: 100%;
       padding-left: 17vw;
+}
+    nav {
+      margin-top: 0px;
+      display: flex;
+      flex-wrap:wrap;
+      width: 100%;
+      padding: 10px;
+    
+      border: none;
+    }
+    
+    nav ul {
+      display: flex;
+    }
+    
+    nav li {
+      display: table-cell;
+      margin: 0;
+      text-align: center;
+    }
+    
+    nav li a {
+      padding:  25px;
+      text-decoration: none;
+      font-weight: bold;
+      font-family: Verdana, Sans-Serif;
+      font-size: 1em;
+      color: white;
+      border-bottom: 0.1em grey;
+      
+    }
+
+    nav li a:hover {
+      background: red;
+      transition: .25s ease-in-out;
+      opacity: 0.7;
+    }
+	     
+.text {
+	font-family: Roboto, Sans-Serif;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	margin-top: 10px;
+}
+	
+.active {
+     background-color: grey;
+     color: black;
+}
+
+.active2 {
+     color: black;
+}
+
+.active3 {
+     background-color: grey;
+     color: white;
+}
+
+.active4 {
+     background-color: grey;
+     color: white;
+}
+	
+.bar {
+  background-color: red;
+  height: 1px;
+  opacity: 0.2;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+.text1 {
+	font-family: roboto, Sans-Serif;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	height: 80vh;
+	width: 200vh;
+	opacity: 0.7;
+}
+
+.black-font {
+	color: black;
+}
+	
+.lamb {
+	background-image: url(https://www.lamborghini.com/en-en/sites/en-en/files/DAM/lamborghini/model/huracan/huracan-performante/header-huracan-performante.jpg);
+	width: 100%;
+	background-size: 200vh 115vh;
+	margin: 0;
+	background-attachment: fixed;
+}
+
+.white {
+	background-color: white;
+	height: 75vh;
+	width: 200vh;
+    box-shadow: -10px -20px 20px black;
+}
+
+.black {
+	background-color: black;
+	height: 125vh;
+	width: 200vh;
+    box-shadow: -10px -20px 20px black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.little {
+	background-color: black;
+	height: 70%;
+	width: 33%;
+}
+
+.margin {
+	margin: auto;
+	border: 2px solid orange;
+	background-color: transparent;
+	height: 70%;
+	width: 80%;
+}
+
+.margin2 {
+	margin: auto;
+	border: 2px solid orange;
+	background-color: black;
+	height: 25%;
+	width: 80%;
+}
+
+.m_blue {
+	margin: auto;
+	border: 2px solid #0E5A89;
+	background-color: transparent;
+}
+
+.m_white {
+	margin: auto;
+	border: 2px solid white;
+	background-color: transparent;
+}
+
+.m_red {
+	margin: auto;
+	border: 2px solid #960B0B;
+	background-color: transparent;
+}
+
+.m_green {
+	margin: auto;
+	border: 2px solid green;
+	background-color: transparent;
+}
+
+.m_grey {
+	margin: auto;
+	border: 2px solid #6E6E6E;
+	background-color: transparent;
+}
+
+.m_ice {
+	margin: auto;
+	border: 2px solid #AFC6CA;
+	background-color: transparent;
+}
+
+.m_purp {
+	margin: auto;
+	border: 2px solid #3A274F;
+	background-color: transparent;
+}
+
+.m_yellow {
+	margin: auto;
+	border: 2px solid #F7E429;
+	background-color: transparent;
+}
+
+.rari {
+	background-image: url(http://mms.businesswire.com/media/20140325006265/en/408774/5/EXR_ACS_Ferrari.jpg);
+	background-size: 210vh 135vh;
+	margin: 0;
+	width: 100%;
+	background-attachment: fixed;
+}
+
+.laren {
+	background-image: url(http://www.hdcarwallpapers.com/download/2018_mclaren_720s_memphis_red_4k-1366x768.jpg);
+	background-size: 200vh 107vh;
+	margin: 0;
+	width: 100%;
+	background-attachment: fixed;
+}
+
+.tesla {
+	background-image: url(http://www.stanceworks.com/wp-content/uploads/2017/11/2020-Tesla-Roadster-05.jpg);
+	background-size: 200vh 135vh;
+	margin: 0;
+	width: 100%;
+	background-attachment: fixed;
+}
+
+.porsche {
+	background-image: url(http://blog.caranddriver.com/wp-content/uploads/2014/12/2015-Porsche-918-Spyder-1021.jpg);
+	background-size: 200vh 115vh;
+	margin: 0;
+	width: 100%;
+	background-attachment: fixed;
+}
+
+.mercedes {
+	background-image: url(https://drivetribe.imgix.net/R5oiwevpSDSCe_z6UGvmEQ?w=1800&h=1013&fm=pjpg&auto=compress&fit=crop&crop=faces,edges);
+	background-size: 200vh 110vh;
+	margin: 0;
+	width: 100%;
+	background-attachment: fixed;
+}
+
+.bug {
+	background-image: url(https://assets.bugatti.com/fileadmin/user_upload/Web/Pages/Chiron_2017/images/bugatti-chiron-black-blue-02.jpg);
+	background-size: 200vh 115vh;
+	margin: 0;
+	width: 100%;
+	background-attachment: fixed;
+}
+
+.egg {
+	background-image: url(http://images.car.bauercdn.com/pagefiles/76790/koenig_agerars_01.jpg);
+	background-size: 200vh 130vh;
+	margin: 0;
+	width: 100%;
+	background-attachment: fixed;
+}
+
+.blank_space {
+	height: 150px;
+}
+
+.blank {
+	height: 100px;
+}
+
+h1 {
+	font-family: roboto, Sans-Serif;
+	color: white;
+	text-align: center;
+}
+
+p {
+	font-family: roboto, Sans-Serif;
+	color: white;
+	text-align: center;
+}
+
+.red {
+	color: #DF0101;
+}
+
+img {
+	content: url(engine.png);
+	height: 35vh;
+	width: 27vw;
+	margin-left: 0;
+}
+	
+.gera {
+	content: url(egg-engine.png);
+	height: 30vh;
+	width: 35vw;
+	margin-left: -4vw;
+}
+
+.chiron {
+	content: url(chiron_motor_01.png);
+	height: 37vh;
+	width: 23vw;
+	margin-left: 2vw;
+}
+	
+.mer {
+	content: url(mercedes-engine.png);
+	height: 35vh;
+	width: 37vw;
+	margin-left: -5vw;
+}
+
+.mclar {
+	content: url(laren-engine.png);
+}
+	
+.ferar {
+	content: url(rari-engine.png);
+	height: 37vh;
+	width: 40vw;
+	margin-left: -7vw;
+}
+	
+.pors {
+	content: url(porsche-engine.png);
+	height: 35vh;
+	width: 40vw;
+	margin-left: -6.5vw;
+}
+	
+.bat {
+	content: url(tesla-bat.png);
+	height: 30vh;
+	width: 35vw;
+	margin-left: -4.25vw;
+}
+
+.ratio {
+	height: 20vh;
+	width: 25vw;
+}
+	
+.msrp {
+	font-family: roboto, Sans-Serif;
+	color: white;
+	text-align: center;
+	font-size: 60px;
+}
+	
+img:hover {
+    cursor: pointer;
+}
+
+img:active {
+	transform: scale(0.90, 0.90);
+}
+}
+
+
+@media screen and (max-width: 1249px) {
+body {
+	background-image: url(hyper.png);
+	width: 100%;
+	background-size: 210vh 105vh;
+	margin: 0;
+	background-repeat: no-repeat;
+}
+
+#myTopnav {
+      margin: 0 auto;
+      width: 100%;
+      padding-left: 7vw;
 }
     nav {
       margin-top: 0px;
