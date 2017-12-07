@@ -1002,6 +1002,11 @@ p {
 	color: #DF0101;
 }
 
+.ratio {
+	height: 0vh;
+	width: 25vw;
+}
+	
 img {
 	content: url(engine.png);
 	height: .25vh;
