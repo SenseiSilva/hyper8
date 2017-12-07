@@ -696,7 +696,7 @@ img:active {
 	
 	
 body {
-	background-image: url(https://static.carthrottle.com/workspace/uploads/posts/2016/02/e384985daf3ef037418eba3dff6eb3b0.jpg);
+	background-image: url(hyper.jpg);
 	background-size: 210vh 105vh;
 	margin: 0;
 	background-repeat: no-repeat;
@@ -809,7 +809,7 @@ body {
 }
 
 .lamb {
-	background-image: url(https://www.lamborghini.com/en-en/sites/en-en/files/DAM/lamborghini/model/huracan/huracan-performante/header-huracan-performante.jpg);
+	background-image: url(cars/lamborghini.jpg);
 	width: 100%;
 	background-size: 200vh 115vh;
 	margin: 0;
@@ -904,7 +904,7 @@ body {
 }
 
 .rari {
-	background-image: url(http://collectwall.com/wp-content/uploads/2016/08/Amazing-Red-Ferrari-458-Speciale-HD-Wallpaper.jpg);
+	background-image: url(cars/ferrari.jpg);
 	background-size: 170vh 115vh;
 	margin: 0;
 	width: 100%;
@@ -912,7 +912,7 @@ body {
 }
 
 .laren {
-	background-image: url(http://www.hdcarwallpapers.com/download/2018_mclaren_720s_memphis_red_4k-1366x768.jpg);
+	background-image: url(cars/mclaren.jpg);
 	background-size: 200vh 107vh;
 	margin: 0;
 	width: 100%;
@@ -920,7 +920,7 @@ body {
 }
 
 .tesla {
-	background-image: url(http://www.stanceworks.com/wp-content/uploads/2017/11/2020-Tesla-Roadster-05.jpg);
+	background-image: url(cars/tesla.jpg);
 	background-size: 200vh 105vh;
 	margin: 0;
 	width: 100%;
@@ -928,7 +928,7 @@ body {
 }
 
 .porsche {
-	background-image: url(http://blog.caranddriver.com/wp-content/uploads/2014/12/2015-Porsche-918-Spyder-1021.jpg);
+	background-image: url(cars/porsche.jpg);
 	background-size: 200vh 120vh;
 	margin: 0;
 	width: 100%;
@@ -936,7 +936,7 @@ body {
 }
 
 .mercedes {
-	background-image: url(https://drivetribe.imgix.net/R5oiwevpSDSCe_z6UGvmEQ?w=1800&h=1013&fm=pjpg&auto=compress&fit=crop&crop=faces,edges);
+	background-image: url(cars/mercedes.jpg);
 	background-size: 200vh 110vh;
 	margin: 0;
 	width: 100%;
@@ -944,7 +944,7 @@ body {
 }
 
 .bug {
-	background-image: url(https://assets.bugatti.com/fileadmin/user_upload/Web/Pages/Chiron_2017/images/bugatti-chiron-black-blue-02.jpg);
+	background-image: url(cars/bugatti.jpg);
 	background-size: 200vh 115vh;
 	margin: 0;
 	width: 100%;
@@ -952,7 +952,7 @@ body {
 }
 
 .egg {
-	background-image: url(http://images.car.bauercdn.com/pagefiles/76790/koenig_agerars_01.jpg);
+	background-image: url(cars/koenigsegg.jpg);
 	background-size: 200vh 130vh;
 	margin: 0;
 	width: 100%;
