@@ -668,9 +668,9 @@ img {
 	
 .pors {
 	content: url(porsche-engine.png);
-	height: 35vh;
-	width: 40vw;
-	margin-left: -6.5vw;
+	height: 25vh;
+	width: 26vw;
+	margin-left: 0vw;
 }
 	
 .bat {
