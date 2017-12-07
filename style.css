@@ -709,7 +709,7 @@ body {
     
      nav {
       margin-top: 0px;
-      display: table;
+      display: flex;
       width: 100%;
       padding: 30px;
       border-collapse: collapse;
@@ -717,7 +717,7 @@ body {
     }
     
     nav ul {
-      display: table-row;
+      display: flex;
     }
     
     nav li {
