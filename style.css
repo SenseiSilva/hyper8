@@ -1015,6 +1015,34 @@ img {
 	visibility: hidden;
 }
 
+.gera {
+	height: 0vh;
+}
+
+.chiron {
+	height: 0vh;
+}
+	
+.mer {
+	height: 0vh;
+}
+
+.mclar {
+	height: 0vh;
+}
+	
+.ferar {
+	height: 0vh;
+}
+	
+.pors {
+	height: 0vh;
+}
+	
+.bat {
+	height: 0;
+}
+
 .msrp {
 	font-family: roboto, Sans-Serif;
 	color: white;
