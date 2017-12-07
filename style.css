@@ -330,8 +330,8 @@ img {
 }
 
 .ratio {
-	height: 20vh;
-	width: 25vw;
+	height: calc(100vh/5);
+	width: calc(100vw/4);
 }
 	
 .msrp {
