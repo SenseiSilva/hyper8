@@ -11,3 +11,32 @@ function myFunction() {
         x.className = "topnav";
     }
 }
+
+
+function play1(){
+    document.getElementById("bugatti-start").play();
+}
+
+function play2(){
+    document.getElementById("ferrari-start").play();
+}
+
+function play3(){
+    document.getElementById("lamborghini-start").play();
+}
+
+function play4(){
+    document.getElementById("koenigsegg-start").play();
+}
+
+function play5(){
+    document.getElementById("mercedes-start").play();
+}
+
+function play6(){
+    document.getElementById("mclaren-start").play();
+}
+
+function play7(){
+    document.getElementById("porsche-start").play();
+}
