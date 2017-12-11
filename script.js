@@ -13,30 +13,37 @@ function myFunction() {
 }
 
 
+// this plays the revving of the engine by getting the id connected to the audio element in the html//
 function play1(){
-    document.getElementById("bugatti-start").play();
+    document.getElementById("bugatti").play();
 }
 
+// this plays the revving of the engine by getting the id connected to the audio element in the html//
 function play2(){
-    document.getElementById("ferrari-start").play();
+    document.getElementById("ferrari").play();
 }
 
+// this plays the revving of the engine by getting the id connected to the audio element in the html//
 function play3(){
-    document.getElementById("lamborghini-start").play();
+    document.getElementById("lamborghini").play();
 }
 
+// this plays the revving of the engine by getting the id connected to the audio element in the html//
 function play4(){
-    document.getElementById("koenigsegg-start").play();
+    document.getElementById("koenigsegg").play();
 }
 
+// this plays the revving of the engine by getting the id connected to the audio element in the html//
 function play5(){
-    document.getElementById("mercedes-start").play();
+    document.getElementById("mercedes").play();
 }
 
+// this plays the revving of the engine by getting the id connected to the audio element in the html//
 function play6(){
-    document.getElementById("mclaren-start").play();
+    document.getElementById("mclaren").play();
 }
 
+// this plays the revving of the engine by getting the id connected to the audio element in the html//
 function play7(){
-    document.getElementById("porsche-start").play();
+    document.getElementById("porsche").play();
 }
