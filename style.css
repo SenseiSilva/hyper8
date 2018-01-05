@@ -971,6 +971,10 @@ body {
 .blank2 {
 	height: 20px;
 }
+	
+b_height {
+	height: 100%;
+}
 
 h1 {
 	font-family: roboto, Sans-Serif;
